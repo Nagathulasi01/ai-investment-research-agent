@@ -156,19 +156,13 @@ INVEST
 
 ## Screenshots
 
-Add the exported application images into the `screenshots/` folder and reference them here. Recommended filenames:
+The following application screenshots are included in the `screenshots/` folder.
 
-- `screenshots/dashboard.png`
-- `screenshots/analysis-output.png`
-- `screenshots/company-summary.png`
-
-Once screenshots are available, replace these bullet points with Markdown image embeds:
-
-```md
 ![Dashboard](screenshots/dashboard.png)
+
 ![Analysis Output](screenshots/analysis-output.png)
+
 ![Company Summary](screenshots/company-summary.png)
-```
 
 ## Future Improvements
 
